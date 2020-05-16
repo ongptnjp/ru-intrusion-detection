@@ -1,4 +1,6 @@
-kddcup.data.csv
-data/.DS_Store
+*.DS_Store
 *.dmg
 *.pdf
+
+KDDCup99.csv
+random-forest-label-catagory.model
