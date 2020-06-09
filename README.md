@@ -9,11 +9,30 @@
 3. [Document Example](https://www.en.rmutt.ac.th/che/files/Project_2560_compressed_compressed.pdf)
 4. [Install Plugin Tree visualization](https://stackoverflow.com/questions/9175116/visualizing-weka-classification-tree/29651241#29651241)
 
+### Attack Catagory Shortly Description
+1. Fuzzer 
+   > สุ่มค่า input ที่แปลกปลอมในหลากหลายรูปแบบที่อาจจะทำให้ระบบทำงานผิดพลาดได้
+2. Analysis
+   > เป็นการโจมตีระบบเครือข่ายรูปแบบหนึ่งที่แฮ็คเกอร์จะเลือกเป้าหมายเพียงรายเดียว แล้วมุ่งโจมตีเฉพาะเป้าหมายนั้น โดยอาศัยเทคนิคการโจมตีรูปแบบต่างๆ ผสานกันเพื่อให้ประสบผลสำเร็จ
+3. BackDoors
+   > รูรั่วของระบบหรือซอฟแวร์ นักพัฒนาระบบจงใจสร้างทิ้งไว้ เพื่อให้ซอฟแวร์คอยส่งข้อมูลจากอุปกรณ์ที่มันติดตั้งอยู่ กลับไปหาโปรแกรมเมอร์ผู้พัฒนา
+4. Ddos Attack
+   > เป็นเทคนิคการโจมตีแบบ Brute Force ระดับสูงที่อาศัย Botnet หรือเครือข่ายของอุปกรณ์คอมพิวเตอร์ที่ติดมัลแวร์กลายเป็น Zombie และถูกควบคุมตามคำสั่งของแฮ็คเกอร์
+5. Generic
+   > The generic attack is to hash a huge number of distinct messages until the same hash pops up twice
+6. Reconnaissance
+   > Reconnaissance is a type of computer attack in which an intruder engages with the targeted system to gather information about vulnerabilities.
+7. Shellcode
+   > Shellcode is a small piece of code used as the payload in the exploitation of a software vulnerability.
+8. Worms
+   > A computer worm is a standalone malware computer program that replicates itself in order to spread to other computers.
+
 ## Confusion Matrix
-ลองสมมุติว่ากำลังประเมินการทดสอบชนิดใหม่ที่ตรวจคัดกรองโรคชนิดหนึ่ง
-แต่ละคนที่ทดสอบจริง ๆ มีหรือไม่มีโรค
-ผลสอบอาจเป็นบวก คือจัดบุคคลว่ามีโรค หรือเป็นลบ คือจัดบุคคลว่าไม่มีโรค แต่ผลของแต่ละคนอาจจะไม่เหมือนกับภาวะจริง ๆ 
-ดังนั้น จะมีกรณีต่าง ๆ 4 อย่าง คือ
+>ลองสมมุติว่ากำลังประเมินการทดสอบชนิดใหม่ที่ตรวจคัดกรองโรคชนิดหนึ่ง
+>แต่ละคนที่ทดสอบจริง ๆ มีหรือไม่มีโรค
+>ผลสอบอาจเป็นบวก คือจัดบุคคลว่ามีโรค หรือเป็นลบ คือจัดบุคคลว่าไม่มีโรค >แต่ผลของแต่ละคนอาจจะไม่เหมือนกับภาวะจริง ๆ
+
+- ดังนั้น จะมีกรณีต่าง ๆ 4 ข้อคือ
 1. ผลบวกจริง **(true positive)** ผู้ป่วยตรวจพบว่า**มีโรคอย่างถูกต้อง**
 2. ผลบวกปลอม **(false positive)** คนปกติตรวจพบว่า**มีโรคอย่างไม่ถูกต้อง**
 3. ผลลบจริง **(true negative)** คนปกติตรวจพบว่า**ไม่มีโรคอย่างถูกต้อง**
