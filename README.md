@@ -3,6 +3,12 @@
 
 >Thank you ME CSE Student, MSS’s College of Engineering & Technology, Jalna (MH) India1
 
+## Reference
+1. [Weka Official Document](https://waikato.github.io/weka-wiki/)
+2. [How to save model and prediction in Weka](https://machinelearningmastery.com/save-machine-learning-model-make-predictions-weka/)
+3. [Document Example](https://www.en.rmutt.ac.th/che/files/Project_2560_compressed_compressed.pdf)
+4. [Install Plugin Tree visualization](https://stackoverflow.com/questions/9175116/visualizing-weka-classification-tree/29651241#29651241)
+
 ## Confusion Matrix
 ลองสมมุติว่ากำลังประเมินการทดสอบชนิดใหม่ที่ตรวจคัดกรองโรคชนิดหนึ่ง
 แต่ละคนที่ทดสอบจริง ๆ มีหรือไม่มีโรค
@@ -43,6 +49,14 @@
 แต่จะพลาดการวินิจฉัยคนที่เป็นเบาหวานจริงไปบางคน 
 จึงเป็นการเพิ่ม specificity แต่ลด sensitivity
 
+
+## Result Algorithm
+| Algorithm | Accuracy | ROC Area | TP | FP
+| --- | --- | --- | --- | ---
+Decision tree | 89.2533% | 0.974 |  0.893 | 0.011
+Random forest | 90.146% | 0.977 | 0.901 | 0.010
+Naive bayes | 50.6462% | 0.895 | 0.506 | 0.016
+K-nearest neighboor | 86.3054% | 0.925 | 0.863 | 0.013
 
 
 ### Initial Memory for weka
