@@ -8,6 +8,16 @@
 2. [How to save model and prediction in Weka](https://machinelearningmastery.com/save-machine-learning-model-make-predictions-weka/)
 3. [Document Example](https://www.en.rmutt.ac.th/che/files/Project_2560_compressed_compressed.pdf)
 4. [Install Plugin Tree visualization](https://stackoverflow.com/questions/9175116/visualizing-weka-classification-tree/29651241#29651241)
+5. [Sample guild for confusion matrix](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+6. [อธิบาย Naive bayes](https://medium.com/@dumpdatasci.th/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%B2%E0%B8%A2-naive-bayes-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3-classification-2b8d35e1e764)
+7. [รู้จัก Decision Tree, Random Forest, และ​ XGBoost!!!](https://medium.com/@witchapongdaroontham/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-decision-tree-random-forrest-%E0%B9%81%E0%B8%A5%E0%B8%B0-xgboost-part-1-cb49c4ac1315#:~:text=%F0%9F%8F%9ERandom%20Forest%20%E0%B8%84%E0%B8%B7%E0%B8%AD%20model,%E0%B8%9C%E0%B8%A5%20final%20prediction%20%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%84%E0%B9%88%E0%B8%B2)
+8. [รู้จักการจำแนกประเภทข้อมูลด้วย k-Nearest Neighbors](https://www.babelcoder.com/blog/articles/k-nearest-neighbors)
+9. [ตัววัดประสิทธิภาพของ Model Classification](http://dataminingtrend.com/2014/classifier_evaluation_metrics/)
+10. [Various ways to evaluate a machine learning model’s performance](https://towardsdatascience.com/various-ways-to-evaluate-a-machine-learning-models-performance-230449055f15)
+11. [Evaluating a machine learning model.](https://www.jeremyjordan.me/evaluating-a-machine-learning-model/)
+12. [อธิบาย 10 Metrics พื้นฐานสำหรับวัดผลโมเดล Machine Learning](https://datarockie.com/2019/03/30/top-ten-machine-learning-metrics/#:~:text=18%20%3D%2052.6%25-,F1-Score,recall%20%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7)
+13. [คำศัพท์ Data Scientist ตอนที่ 2. Accuracy,Precision, Recall](https://medium.com/@dumpdatasci.th/%E0%B8%84%E0%B8%B3%E0%B8%A8%E0%B8%B1%E0%B8%9E%E0%B8%97%E0%B9%8C-data-scientist-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-2-accuracy-precision-recall-f880c78b88c4#:~:text=Precision%20%3D%20TP%2F(TP%2BFP)&text=Recall%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%B3%E0%B8%97%E0%B8%B5%E0%B9%88,%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A)
+14. 
 
 ### Attack Catagory Shortly Description
 1. Fuzzer 

@@ -2,3 +2,6 @@
 *.dmg
 *.pdf
 *weka-3-8-4*
+
+/poon
+*random*
